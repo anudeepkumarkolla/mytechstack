@@ -1,6 +1,6 @@
 /* This is my first CSS file */
 * {
-    margin: 1;
-    padding: 1;
+    margin: 10px;
+    padding: 10px;
     box-sizing: border-box;
 }
